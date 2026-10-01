@@ -18,5 +18,3 @@ int main()
     std::cout << "Your major is " << major << ". Good luck!" << std::endl;
     return 0;
 }
-
-// Start Here
